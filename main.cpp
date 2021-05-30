@@ -12,6 +12,8 @@ int main()
     input(&num1, &num2);
     cout << "×èñëà: " << num1 << "; " << num2 <<endl;
 
+    cout << "Ñóììà ıòèõ ÷èñåë ğàâíà : " << num1 + num2 << endl;
+
     return 0;
 }
 
